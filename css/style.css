@@ -36,7 +36,6 @@ h2 {
 table {
     width: 100%;
     border-collapse: collapse;
-    /* Adiciona um espaçamento na parte inferior da tabela */
     margin-bottom: 20px;
 }
 
