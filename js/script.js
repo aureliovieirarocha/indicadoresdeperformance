@@ -21,12 +21,12 @@ async function fetchAndRenderData() {
       const meta = indicador.meta;
       const execucao = indicador.execucao;
 
-      if (indicador.nome.includes("Erros Críticos")) {
-        statusIcon = execucao <= meta ? '✅' : '❌'; 
+      if (indicador.nome.includes("Erros Críticos") || indicador.nome.includes("Estabilidade da Liderança") || indicador.nome.includes("Turnover de Liderança")) {
+        statusIcon = execucao <= meta ? '✅' : '❌';
       } else if (execucao >= meta) {
-        statusIcon = '✅'; 
+        statusIcon = '✅';
       } else {
-        statusIcon = '❌'; 
+        statusIcon = '❌';
       }
 
       tableHTML += `
@@ -86,6 +86,18 @@ async function fetchAndRenderData() {
 
   createTable('tutor-table', allData.tutor);
   createChart('tutor-chart', allData.tutor);
+
+  createTable('marketing-table', allData.marketing);
+  createChart('marketing-chart', allData.marketing);
+
+  createTable('seguranca-table', allData.seguranca);
+  createChart('seguranca-chart', allData.seguranca);
+
+  createTable('requisitos-table', allData.requisitos);
+  createChart('requisitos-chart', allData.requisitos);
+
+  createTable('pmo-table', allData.pmo);
+  createChart('pmo-chart', allData.pmo);
 }
 
 fetchAndRenderData();
