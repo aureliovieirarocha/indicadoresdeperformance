@@ -8,7 +8,7 @@ O dashboard é ideal para acompanhamento rápido de KPIs (Key Performance Indica
 ### 🔗 Acesse o Dashboard
 
 Você pode acessar o dashboard público em:
-https://aureliovieirarocha.github.io/
+[https://aureliovieirarocha.github.io/](https://aureliovieirarocha.github.io/indicadoresdeperformance/)
 
 ### ✨ Funcionalidades
 
