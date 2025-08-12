@@ -2,160 +2,73 @@
   "novoTrello": {
     "nome": "Novo Trello",
     "indicadores": [
-      {
-        "nome": "Tarefas Concluídas por Sprint",
-        "meta": 90,
-        "execucao": 85,
-        "unidade": "%"
-      },
-      {
-        "nome": "Aderência ao Cronograma",
-        "meta": 80,
-        "execucao": 75,
-        "unidade": "%"
-      },
-      {
-        "nome": "Cobertura de Testes",
-        "meta": 70,
-        "execucao": 72,
-        "unidade": "%"
-      },
-      {
-        "nome": "Erros Críticos Reportados",
-        "meta": 0,
-        "execucao": 1,
-        "unidade": "erros"
-      },
-      {
-        "nome": "Participação em Reuniões",
-        "meta": 90,
-        "execucao": 95,
-        "unidade": "%"
-      },
-      {
-        "nome": "Turnover de Membros",
-        "meta": 20,
-        "execucao": 15,
-        "unidade": "%"
-      },
-      {
-        "nome": "Entrega de Relatório de Status",
-        "meta": 100,
-        "execucao": 100,
-        "unidade": "%"
-      },
-      {
-        "nome": "Documentação Atualizada",
-        "meta": 100,
-        "execucao": 90,
-        "unidade": "%"
-      }
+      { "nome": "Tarefas Concluídas por Sprint", "meta": 90, "execucao": 85, "unidade": "%" },
+      { "nome": "Aderência ao Cronograma", "meta": 80, "execucao": 75, "unidade": "%" },
+      { "nome": "Cobertura de Testes", "meta": 70, "execucao": 72, "unidade": "%" },
+      { "nome": "Erros Críticos Reportados", "meta": 0, "execucao": 1, "unidade": " erros" },
+      { "nome": "Participação em Reuniões", "meta": 90, "execucao": 95, "unidade": "%" },
+      { "nome": "Turnover de Membros", "meta": 20, "execucao": 15, "unidade": "%" },
+      { "nome": "Entrega de Relatório de Status", "meta": 100, "execucao": 100, "unidade": "%" },
+      { "nome": "Documentação Atualizada", "meta": 100, "execucao": 90, "unidade": "%" }
     ]
   },
   "prontuario": {
     "nome": "Prontuário",
     "indicadores": [
-      {
-        "nome": "Tarefas Concluídas por Sprint",
-        "meta": 90,
-        "execucao": 92,
-        "unidade": "%"
-      },
-      {
-        "nome": "Aderência ao Cronograma",
-        "meta": 85,
-        "execucao": 88,
-        "unidade": "%"
-      },
-      {
-        "nome": "Cobertura de Testes",
-        "meta": 70,
-        "execucao": 65,
-        "unidade": "%"
-      },
-      {
-        "nome": "Erros Críticos Reportados",
-        "meta": 0,
-        "execucao": 0,
-        "unidade": "erros"
-      },
-      {
-        "nome": "Participação em Reuniões",
-        "meta": 90,
-        "execucao": 85,
-        "unidade": "%"
-      },
-      {
-        "nome": "Turnover de Membros",
-        "meta": 40,
-        "execucao": 35,
-        "unidade": "%"
-      },
-      {
-        "nome": "Entrega de Relatório de Status",
-        "meta": 100,
-        "execucao": 100,
-        "unidade": "%"
-      },
-      {
-        "nome": "Documentação Atualizada",
-        "meta": 80,
-        "execucao": 85,
-        "unidade": "%"
-      }
+      { "nome": "Tarefas Concluídas por Sprint", "meta": 90, "execucao": 92, "unidade": "%" },
+      { "nome": "Aderência ao Cronograma", "meta": 85, "execucao": 88, "unidade": "%" },
+      { "nome": "Cobertura de Testes", "meta": 70, "execucao": 65, "unidade": "%" },
+      { "nome": "Erros Críticos Reportados", "meta": 0, "execucao": 0, "unidade": " erros" },
+      { "nome": "Participação em Reuniões", "meta": 90, "execucao": 85, "unidade": "%" },
+      { "nome": "Turnover de Membros", "meta": 40, "execucao": 35, "unidade": "%" },
+      { "nome": "Entrega de Relatório de Status", "meta": 100, "execucao": 100, "unidade": "%" },
+      { "nome": "Documentação Atualizada", "meta": 80, "execucao": 85, "unidade": "%" }
     ]
   },
   "tutor": {
     "nome": "Tutor",
     "indicadores": [
-      {
-        "nome": "Tarefas Concluídas por Sprint",
-        "meta": 90,
-        "execucao": 88,
-        "unidade": "%"
-      },
-      {
-        "nome": "Aderência ao Cronograma",
-        "meta": 85,
-        "execucao": 90,
-        "unidade": "%"
-      },
-      {
-        "nome": "Cobertura de Testes",
-        "meta": 70,
-        "execucao": 75,
-        "unidade": "%"
-      },
-      {
-        "nome": "Erros Críticos Reportados",
-        "meta": 0,
-        "execucao": 0,
-        "unidade": "erros"
-      },
-      {
-        "nome": "Participação em Reuniões",
-        "meta": 90,
-        "execucao": 92,
-        "unidade": "%"
-      },
-      {
-        "nome": "Turnover de Membros",
-        "meta": 20,
-        "execucao": 25,
-        "unidade": "%"
-      },
-      {
-        "nome": "Entrega de Relatório de Status",
-        "meta": 100,
-        "execucao": 90,
-        "unidade": "%"
-      },
-      {
-        "nome": "Documentação Atualizada",
-        "meta": 70,
-        "execucao": 80,
-        "unidade": "%"
-      }
+      { "nome": "Tarefas Concluídas por Sprint", "meta": 90, "execucao": 88, "unidade": "%" },
+      { "nome": "Aderência ao Cronograma", "meta": 85, "execucao": 90, "unidade": "%" },
+      { "nome": "Cobertura de Testes", "meta": 70, "execucao": 75, "unidade": "%" },
+      { "nome": "Erros Críticos Reportados", "meta": 0, "execucao": 0, "unidade": " erros" },
+      { "nome": "Participação em Reuniões", "meta": 90, "execucao": 92, "unidade": "%" },
+      { "nome": "Turnover de Membros", "meta": 20, "execucao": 25, "unidade": "%" },
+      { "nome": "Entrega de Relatório de Status", "meta": 100, "execucao": 90, "unidade": "%" },
+      { "nome": "Documentação Atualizada", "meta": 70, "execucao": 80, "unidade": "%" }
+    ]
+  },
+  "marketing": {
+    "nome": "Marketing",
+    "indicadores": [
+      { "nome": "Posts no Instagram", "meta": 12, "execucao": 3, "unidade": " posts" },
+      { "nome": "Padronização de Marca", "meta": 100, "execucao": 100, "unidade": "%" },
+      { "nome": "Atividade da Equipe", "meta": 100, "execucao": 0, "unidade": "%" },
+      { "nome": "Turnover de Liderança", "meta": 0, "execucao": 1, "unidade": " troca(s)" }
+    ]
+  },
+  "seguranca": {
+    "nome": "Segurança",
+    "indicadores": [
+      { "nome": "Estabilidade da Liderança", "meta": 0, "execucao": 2, "unidade": " trocas" },
+      { "nome": "Atividades Concluídas", "meta": 100, "execucao": 10, "unidade": "%" },
+      { "nome": "Turnover de Membros", "meta": 20, "execucao": 0, "unidade": "%" }
+    ]
+  },
+  "requisitos": {
+    "nome": "Requisitos",
+    "indicadores": [
+      { "nome": "Estabilidade da Liderança", "meta": 0, "execucao": 2, "unidade": " trocas" },
+      { "nome": "Atividades Concluídas", "meta": 100, "execucao": 10, "unidade": "%" },
+      { "nome": "Turnover de Membros", "meta": 20, "execucao": 0, "unidade": "%" }
+    ]
+  },
+  "pmo": {
+    "nome": "PMO",
+    "indicadores": [
+      { "nome": "Projetos Acompanhados", "meta": 100, "execucao": 100, "unidade": "%" },
+      { "nome": "Documentação Entregue", "meta": 100, "execucao": 100, "unidade": "%" },
+      { "nome": "Relatórios Entregues", "meta": 100, "execucao": 100, "unidade": "%" }
     ]
   }
 }
