@@ -66,9 +66,5 @@
   "pmo": {
     "nome": "PMO",
     "indicadores": [
-      { "nome": "Projetos Acompanhados", "meta": 100, "execucao": 100, "unidade": "%" },
-      { "nome": "Documentação Entregue", "meta": 100, "execucao": 100, "unidade": "%" },
-      { "nome": "Relatórios Entregues", "meta": 100, "execucao": 100, "unidade": "%" }
-    ]
-  }
-}
+      { "nome": "Projetos Acompanhados", "meta": 89, "execucao": 100, "unidade": "%" },
+      { "nome": "Documentação Entregue", "meta": 89, "execucao": 100, "un
