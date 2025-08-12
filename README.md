@@ -30,14 +30,14 @@ https://aureliovieirarocha.github.io/
 A organização dos arquivos segue uma estrutura simples e clara:
 
 .
-├── index.html          # A página principal do dashboard
-├── README.md           # Este arquivo
+├── index.html
+├── README.md
 ├── css/
-|  └── style.css       # Estilos visuais do dashboard
+│   └── style.css
 ├── js/
-|  └── script.js       # Lógica para criar tabelas e gráficos
+│   └── script.js
 └── data/
-  └── data.json       # Fonte de dados com os indicadores e valores
+└── data.json
 
 ### ⚙️ Como Atualizar os Dados
 
